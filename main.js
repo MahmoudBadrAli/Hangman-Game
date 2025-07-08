@@ -87,7 +87,7 @@ let wrongAttempts;
 let randomValue;
 let guessSpans;
 
-let getWordsObject = fetch("/words.json")
+let getWordsObject = fetch("words.json")
   .then((data) => data.json())
   .then((data) => {
     return data;
