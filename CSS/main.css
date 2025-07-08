@@ -628,6 +628,8 @@ hr {
 .level {
   color: var(--warning-color);
   font-weight: bold;
+  display: block;
+  margin-top: -25px;
 }
 
 /* Alternative Color Themes */
@@ -865,12 +867,17 @@ i {
   -ms-flex-direction: column;
   flex-direction: column;
   padding: 20px;
-  width: 133px;
+  width: 135px;
 }
 
 .options hr {
   height: 2px;
   margin: 15px 0;
+}
+
+.options .sound,
+.options .theme {
+  white-space: nowrap;
 }
 
 .options .sound span.sound-word,

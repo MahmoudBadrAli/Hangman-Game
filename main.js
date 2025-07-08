@@ -479,7 +479,7 @@ function resetGame() {
   // Claer Guess Word Inputs
   document.querySelector(".letters-guess").innerHTML = "";
 
-  let getWordsObject = fetch("/words.json")
+  let getWordsObject = fetch("./words.json")
     .then((data) => data.json())
     .then((data) => {
       return data;
