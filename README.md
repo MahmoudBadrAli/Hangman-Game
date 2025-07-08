@@ -15,27 +15,43 @@ Special thanks to **[Osama Elzero](https://www.facebook.com/OsElzero/)** for mak
 Try The Game Live: [Hangman](https://mahmoudbadrali.github.io/Hangman-Game/)
 ---
 
+## 🚀 Features
+
+- 🧠 Random word + random category
+- 🔠 Dynamic letter buttons (A–Z)
+- 🎨 **Theme switcher** – choose from:
+  - 🌊 Ocean  
+  - 🌲 Forest  
+  - 🌅 Sunset  
+  - 💜 Purple  
+  - 🕶️ Cyan 
+- 🔇 **Toggle sound** – enable or mute game sounds
+- 💬 SweetAlert2 for popups (start, win, lose)
+- ⚙️ Hangman drawing logic with visual feedback
+- 💻 Fully responsive (works on all screen sizes)
+- 🔁 Automatic restart after each round
+- 🧼 Clean, modular JavaScript structure
+
+---
+
 ## 📚 Categories
 
 The game includes multiple categories with English words:
 
+- 💻 Programming  
+- 👤 People  
+- 🌍 Countries  
 - 🐾 Animals  
+- 🏀 Sports  
+- 🎨 Colors  
 - 🍎 Fruits  
 - 🥦 Vegetables  
-- 💻 Programming
-- People 
+- 👷 Jobs  
+- 🗣️ Languages  
+- 📱 Devices
 
 Each round selects a random word from one of these.
 
----
-
-## 🚀 Features
-
-- 🔤 Dynamic letter buttons (A–Z)
-- 🧠 Random word and category every game
-- 🎨 Responsive layout for desktop and mobile
-- ⚠️ Visual hangman stages for incorrect guesses
-- 🧼 Clean, modular JavaScript structure
 
 ---
 
@@ -52,6 +68,7 @@ Each round selects a random word from one of these.
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
+- JSON (for word categories and structure)
 
 ---
 ## 🔊 Sound Effects
@@ -74,3 +91,23 @@ Optional sound effects are included in the codebase (or planned):
    - `sounds/` folder
 3. Open `index.html` in any modern web browser.
 4. Enjoy playing!
+
+---
+
+## 📧 Credits
+
+Game by: [Mahmoud Badr](mailto:mahmoudbadrali15@gmail.com)
+
+---
+
+## 📚 Learning Resources  
+This project was built using knowledge from the following high-quality resources fron Elzero Web School on YouTube take a look:
+
+[![HTML Tutorial](https://img.icons8.com/color/48/000000/html-5.png)](https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
+[![CSS Tutorial](https://img.icons8.com/color/48/000000/css3.png)](https://www.youtube.com/watch?v=X1ulCwyhCVM&list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
+[![JS Tutorial](https://img.icons8.com/color/48/000000/javascript.png)](https://www.youtube.com/watch?v=MAauLwSHO6Y&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
+
+<sub style="vertical-align: middle;">Free Palestine</sub>
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" alt="Palestine Flag" width="75" style="vertical-align: middle; margin-right: 10px;"/>
+</p>
