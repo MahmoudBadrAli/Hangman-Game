@@ -24,9 +24,8 @@ Try The Game Live: [Hangman](https://mahmoudbadrali.github.io/Hangman-Game/)
   - 🌲 Forest  
   - 🌅 Sunset  
   - 💜 Purple  
-  - 🕶️ Cyan 
+  - 🔷 Cyan 
 - 🔇 **Toggle sound** – enable or mute game sounds
-- 💬 SweetAlert2 for popups (start, win, lose)
 - ⚙️ Hangman drawing logic with visual feedback
 - 💻 Fully responsive (works on all screen sizes)
 - 🔁 Automatic restart after each round
