@@ -1,0 +1,142 @@
+{
+  "programming": [
+    "javascript",
+    "python",
+    "typescript",
+    "ruby",
+    "php",
+    "java",
+    "swift",
+    "go",
+    "kotlin",
+    "dart",
+    "d",
+    "r",
+    "c"
+  ],
+  "people": [
+    "Albert Einstein",
+    "Isaac Newton",
+    "Nikola Tesla",
+    "Marie Curie",
+    "Leonardo da Vinci",
+    "Elon Musk",
+    "Cleopatra",
+    "Steve Jobs",
+    "Hitchcock",
+    "Alexander"
+  ],
+  "countries": [
+    "Egypt",
+    "Palestine",
+    "Yemen",
+    "Syria",
+    "Morocco",
+    "Algeria",
+    "Qatar",
+    "Bahrain",
+    "Japan",
+    "Brazil"
+  ],
+  "animals": [
+    "elephant",
+    "giraffe",
+    "dolphin",
+    "penguin",
+    "kangaroo",
+    "lion",
+    "tiger",
+    "rabbit",
+    "horse",
+    "panda"
+  ],
+  "sports": [
+    "football",
+    "basketball",
+    "tennis",
+    "volleyball",
+    "cricket",
+    "golf",
+    "swimming",
+    "cycling",
+    "boxing",
+    "karate"
+  ],
+  "colors": [
+    "red",
+    "blue",
+    "green",
+    "yellow",
+    "purple",
+    "orange",
+    "black",
+    "white",
+    "brown",
+    "pink"
+  ],
+  "fruits": [
+    "apple",
+    "banana",
+    "orange",
+    "grape",
+    "pineapple",
+    "mango",
+    "kiwi",
+    "watermelon",
+    "peach",
+    "strawberry"
+  ],
+  "vegetables": [
+    "carrot",
+    "potato",
+    "onion",
+    "tomato",
+    "cucumber",
+    "lettuce",
+    "spinach",
+    "broccoli",
+    "garlic",
+    "pepper"
+  ],
+  "jobs": [
+    "doctor",
+    "teacher",
+    "engineer",
+    "police",
+    "nurse",
+    "pilot",
+    "driver",
+    "chef",
+    "firefighter",
+    "farmer"
+  ],
+  "languages": [
+    "arabic",
+    "english",
+    "french",
+    "spanish",
+    "german",
+    "chinese",
+    "japanese",
+    "russian",
+    "turkish",
+    "hindi"
+  ],
+  "religions": [
+    "islam",
+    "christianity",
+    "judaism"
+  ],
+  "devices": [
+    "laptop",
+    "smartphone",
+    "tablet",
+    "television",
+    "camera",
+    "headphones",
+    "router",
+    "printer",
+    "monitor",
+    "mouse"
+  ]
+}
